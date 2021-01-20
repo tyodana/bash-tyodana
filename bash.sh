@@ -1,1 +1,1 @@
-echo "<h1> tyodana dana dana </h1>" $BUILD_NUMBER > index.html
+echo "<h1><marquee> tyodana dana dana </h1></marquee>" $BUILD_NUMBER > index.html
